@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/armon/go-metrics v0.3.10 // indirect
-	github.com/cloudflare/cloudflare-go v0.30.0
+	github.com/cloudflare/cloudflare-go v0.32.0
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0
